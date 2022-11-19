@@ -1,3 +1,1 @@
-googleads.g.doubleclick.net
-googleadservices.net
-https://doubleclick.net
+doubleclick.net
